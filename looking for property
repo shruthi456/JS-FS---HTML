@@ -1,0 +1,24 @@
+<html >
+<head>
+
+</head>
+<body>
+    <form>
+        <label>Name</label>
+        <input type="text"/><br><br>
+        <label>email</label>
+        <input type="email"/><br><br>
+        <label>mobile number</label>
+        <input type="number"/><br><br>
+        <label>city</label>
+        <select>
+            <option>--select option--</option>
+            <option>chintamani</option>
+            <option>kolar</option>
+            <option>banglore</option>
+            <option>chikkaballapur</option>
+        </select>
+    </form>
+    
+</body>
+</html>
